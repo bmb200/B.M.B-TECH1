@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
       *B.M.B MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
->https://github.com/bmbttz/B.M.B_TECH.git
+>https://github.com/bmb-1/B.M.B_TZ.git
 
 *WHATSAPP GROUP*
 > https://chat.whatsapp.com/GSwWooIVuAa3VZg095sTux
