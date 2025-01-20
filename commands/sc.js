@@ -40,18 +40,21 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *GITHUB LINK*
-> https://github.com/bmbtz/B.M.B-MD.git
+> https://github.com/bmb-1/B.M.B_TZ.git
 
 *YouTube channel*
 https://youtube.com/@bmbtech-tz?si=Mwd5tB4J1nZSxQLZ
 
 *FOR DEVELOPER T.ME*
-> https://wa.me/+255 741752020
+> https://wa.me/+255 711782669
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
 
+>*CONTACT ME B-M-B 
+ *https://wa.me/message/47OXC25I75WAE1
+ 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/bmbtz/B.M.B-MD.git
+> https://github.com/bmb-1/B.M.B_TZ.git
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
@@ -63,7 +66,7 @@ https://youtube.com/@bmbtech-tz?si=Mwd5tB4J1nZSxQLZ
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ B.M.B MD 💮
+     ┃▓ B.M.B MD 🇹🇿
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
