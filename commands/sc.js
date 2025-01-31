@@ -51,7 +51,7 @@ https://youtube.com/@bmbtech-tz?si=Mwd5tB4J1nZSxQLZ
 > https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
 
 >*CONTACT ME B-M-B 
- *https://wa.me/message/47OXC25I75WAE1
+ *https://wa.me/message/TMYT6ACMTXXWE1🇹🇿
  
 *FOR MORE INFO TAP ON THE LINK BELOW*
 > https://github.com/bmb-1/B.M.B_TZ.git
@@ -66,7 +66,7 @@ https://youtube.com/@bmbtech-tz?si=Mwd5tB4J1nZSxQLZ
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ B.M.B MD 🇹🇿
+     ┃▓ B.M.B MD 😎😎
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
