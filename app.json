@@ -98,14 +98,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "B.M.B MD"
+    "value": "B.M.B TECH"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255711782669"
+    "value": "255741752020"
   },
     "WARN_COUNT":
   {
