@@ -62,6 +62,9 @@ Join our WhatsApp group to connect with the community:
 Subscribe to our YouTube channel for the latest updates:  
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge)](https://youtube.com/@user-em9qv5qt3r?si=a2Z6TvtHS6vnrUYs)
 
+👇 Contact Me on WhatsApp  🤝
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255756530143)  
+
 ---
 
 ## License  
@@ -70,6 +73,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ### Contact  
-For further support or inquiries, feel free to reach out via our channels listed above.
-
-📲 (https://wa.me/message/47OXC25I75WAE1)
+For further support or inquiries, feel free to reach out via our channels listed ab
