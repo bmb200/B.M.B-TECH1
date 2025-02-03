@@ -22,19 +22,27 @@ Stay updated with our WhatsApp channel:
 ## Quick Start
 
 ### 1. Fork This Repository  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 Click the button below to fork the repository and start customizing:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-GitHub-blue?style=for-the-badge)](https://github.com/bmbtz/B.M.B-MD)
 
 ---
 ### 2. Generate Session ID  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 Easily manage your session ID with a single click:  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Get Session ID](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://bmb-tech-scan-e30bcb8bd096.herokuapp.com)
 
 ---
 ### 3. Scan QR Code  
-Use the QR Code below for seamless authentication:  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+Use the QR Code below for seamless authentication: 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
 [![Scan QR Code](https://img.shields.io/badge/QR%20Code-Scan-orange?style=for-the-badge)](#)
 
