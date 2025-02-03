@@ -28,7 +28,6 @@ Stay updated with our WhatsApp channel:
 
 [![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-GitHub-blue?style=for-the-badge)](https://github.com/bmbtz/B.M.B-MD)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ---
 ### 2. Generate Session ID  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
