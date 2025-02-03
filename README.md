@@ -22,6 +22,7 @@ Stay updated with our WhatsApp channel:
 ## Quick star
 ### 1. Fork This Repository  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐶𝐿𝐼𝐶𝐾+𝑇𝑂+𝐹𝑂𝑅𝐾+𝑇𝐻𝐸+𝑅𝐸𝑃𝑂)](https://git.io/typing-svg)
 
 [![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-GitHub-blue?style=for-the-badge)](https://github.com/bmbtz/B.M.B-MD)
