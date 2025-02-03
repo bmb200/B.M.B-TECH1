@@ -1,7 +1,8 @@
 
 🙏 MR-B.M.B 𝕄𝔻 𝕄𝔸𝔻𝔼 𝔹𝕐 B.M.B-TECH
 # B.M.B-XMD
-
+</p>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 **B.M.B-XMD** is a powerful and versatile bot designed to streamline interactions and processes on various platforms.
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝐵.M.B+𝐼𝑆+𝑀𝑌+𝑂𝑊𝑁𝐸𝑅+𓅓)](https://git.io/typing-svg)
