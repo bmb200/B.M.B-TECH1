@@ -4,7 +4,7 @@
 
 **B.M.B-XMD** is a powerful and versatile bot designed to streamline interactions and processes on various platforms.
 
-🇹🇿🇹🇿🇹🇿
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝐵.M.B+𝐼𝑆+𝑀𝑌+𝑂𝑊𝑁𝐸𝑅+𓅓)](https://git.io/typing-svg)
 
 Stay updated with our WhatsApp channel:  
 [![WhatsApp Channel](https://files.catbox.moe/lyd2y0.jpg)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)
