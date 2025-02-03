@@ -66,20 +66,31 @@ Use the QR Code below for seamless authentication:
 
 ## Links & Channels  
 
-### WhatsApp Channel  
+### WhatsApp Channel
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 Stay updated with our WhatsApp channel:  
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge)](https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-### WhatsApp Group  
+### WhatsApp Group
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 Join our WhatsApp group to connect with the community:  
 [![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-teal?style=for-the-badge)](https://chat.whatsapp.com/GNP3fyNgBeOElKqQEsgcvo)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-### YouTube Channel  
+### YouTube Channel
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 Subscribe to our YouTube channel for the latest updates:  
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge)](https://youtube.com/@user-em9qv5qt3r?si=a2Z6TvtHS6vnrUYs)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 👇 Contact Me on WhatsApp  🤝
-[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255741752020)  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255741752020) 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
 ---
 
