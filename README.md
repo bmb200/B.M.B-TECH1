@@ -33,8 +33,6 @@ Stay updated with our WhatsApp channel:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝑇𝐻𝐼𝑆+𝐼𝑆+𝑆𝐸𝑆𝑆𝐼𝑂𝑁+𝑆𝐼𝑇𝐸+🌟)](https://git.io/typing-svg)
- 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Get Session ID](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://bmb-tech-scan-e30bcb8bd096.herokuapp.com)
 
