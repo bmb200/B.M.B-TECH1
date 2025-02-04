@@ -46,6 +46,8 @@ Use the QR Code below for seamless authentication:
 [![Scan QR Code](https://img.shields.io/badge/QR%20Code-Scan-orange?style=for-the-badge)](#)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/boniphace478/BONIPHACE-XMD-1"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 ---
 ***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
