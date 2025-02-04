@@ -45,9 +45,11 @@ Use the QR Code below for seamless authentication:
 
 
 [![Scan QR Code](https://img.shields.io/badge/QR%20Code-Scan-orange?style=for-the-badge)](#)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ---
 ***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
