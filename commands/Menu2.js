@@ -14,7 +14,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     if (s.MODE_PUBLIC != "oui") {
         mode = "private";
     }
-    var emoji = { "Général": "🌐", "Logo": "🎨", "hentai": "🔥", "weeb": "👋", "Recherche": "🔍", "conversion": "🌟", "groupe": "♻️","Téléchargement":"💾" };
+    var emoji = { "Général": "🌐", "Logo": "🎨", "hentai": "🔥", "weeb": "🌸", "Recherche": "🔍", "conversion": "🌟", "groupe": "♻️","Téléchargement":"💾" };
     cm.map(async (com, index) => { if (!coms[com.categorie])
         coms[com.categorie] = []; coms[com.categorie].push(com.nomCom); });
     const temps = moment(moment()).format("HH:MM:SS");
@@ -22,7 +22,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     const date = moment.tz("Africa/Dar es salaam").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ═══ *B.M.B😎TECH* ═══\n\n";
+    let menuMsg = "  ═══ *B.M.B🌟TECH* ═══\n\n";
     /*menuMsg+=`
     
     
@@ -50,7 +50,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     menuMsg += `
 ╔════---------
 ║    Préfix : ${s.PREFIXE}
-║    Owner : ${s.B.M.B-TECH}    
+║    Owner : ${s.NOM_OWNER}    
 ║    Mode : ${mode}
 ║    Plugins :${cm.length}
 ║    Date : ${date}
@@ -67,9 +67,9 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://files.catbox.moe/i89539.jpg";
+    var link = "https://files.catbox.moe/lyd2y0.jpg";
     try {
-        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "© B.M.B MD" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "© B.M.B TECH" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
