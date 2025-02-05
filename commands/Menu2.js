@@ -60,7 +60,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ╚════--------------- \n\n`;
     for (const cat in coms) {
         if (!emoji[cat]) {
-            emoji[cat] = "🔋";
+            emoji[cat] = "🔷";
         }
         menuMsg += `${emoji[cat]} ══ *${cat}* ══ ${emoji[cat]}\n`;
         for (const cmd of coms[cat]) {
@@ -82,7 +82,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 module.exports.commande =()=>
   {
     var nomCom=["menu","m","fonctions"];
-    var reaction="🐞"
+    var reaction="♦️"
     var categorie="général"
 
 
