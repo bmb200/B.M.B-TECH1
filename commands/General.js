@@ -2,7 +2,7 @@ const { zokou } = require("../framework/zokou");
 const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../bdd/sudo")
 const conf = require("../set");
 
-zokou({ nomCom: "owner", categorie: "General", reaction: "🚀" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "owner", categorie: "General", reaction: "💫" }, async (dest, zk, commandeOptions) => {
     const { ms , mybotpic } = commandeOptions;
     
   const thsudo = await isSudoTableNotEmpty()
@@ -10,7 +10,7 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "🚀" }, async (dest, 
   if (thsudo) {
      let msg = `*My Super-User*\n
      *Owner Number\n* :
-- 😎 @${conf.NUMERO_OWNER}
+- ✌️ @${conf.NUMERO_OWNER}
 
 ------ *other sudos* -----\n`
      
@@ -55,14 +55,14 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "B.M.B 😎", numero: "+255 741752020" },
-      { nom: "KING 👑", numero: "+255 741752020" },
+      { nom: "B.M.B 😎", numero: "+255 711782669" },
+      { nom: "B-M-B 🙋", numero: "+255 741904067" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
     let message = "👋😎 ʰᵉˡˡᵒ Welcome🤝 To B.M.B TECH here is the dev :\n\n";
     for (const dev of devs) {
-      message += `----------------\n• ${dev.nom} : https://wa.me/255741752020`;
+      message += `----------------\n• ${dev.nom} : https://wa.me/255711782669`;
     }
   var lien = mybotpic()
     if (lien.match(/\.(mp4|gif)$/i)) {
@@ -99,18 +99,18 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
 
 })
 
-zokou({ nomCom: "developer", categorie: "General", reaction: "🚀" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "developer", categorie: "General", reaction: "🌟" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "BMB", numero: "+255 741752020" },
-      { nom: "king b.m.b", numero: "+255 741752020" },
+      { nom: "BMB", numero: "+255 711782669" },
+      { nom: "king b.m.b", numero: "+255 741904067" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
     let message = "👋 *Welcome to B.M.B-TECH* here is the developer numbers:\n\n";
     for (const dev of devs) {
-      message += `----------------\n• ${dev.nom} : https://wa.me/message/TMYT6ACMTXXWE1`;
+      message += `----------------\n• ${dev.nom} : https://wa.me/255711782669`;
     }
   var lien = mybotpic()
     if (lien.match(/\.(mp4|gif)$/i)) {
