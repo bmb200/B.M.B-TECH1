@@ -67,13 +67,13 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             menuMsg += "\t  ║ " + cmd + "" + " \n";
         }
     }
-    var link = "https://files.catbox.moe/lyd2y0.jpg";
+    var link = "https://files.catbox.moe/i89539.jpg";
     try {
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "© B.M.B TECH" }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("📸📸 Menu erreur " + e);
+        repondre("📸📸 Menu erreur " + e);
     }
 });
 /*
