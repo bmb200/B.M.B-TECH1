@@ -27,6 +27,7 @@ Stay updated with our WhatsApp channel:
 
 </p>
 
+- <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 ---
 ### 2. Generate Session ID  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
