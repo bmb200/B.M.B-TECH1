@@ -49,15 +49,11 @@ Stay updated with our WhatsApp channel:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 Stay updated with our WhatsApp channel:  
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge)](https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge)](https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 Join our WhatsApp group to connect with the community:  
 [![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-teal?style=for-the-badge)](https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-### YouTube Channel
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
 👇 Subscribe to My Channel on YouTube 🤝 
 [![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HANSTZ-TECH)  
 
