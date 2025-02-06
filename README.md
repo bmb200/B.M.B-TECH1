@@ -63,6 +63,7 @@ Join our WhatsApp group to connect with the community:
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 [![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255741752020) 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
