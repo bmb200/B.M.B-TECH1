@@ -54,13 +54,6 @@ Stay updated with our WhatsApp channel:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </p>
-   
-##
-
-
-🌟 DON'T FORGET TO STAR THIS REPO 🙏
-
-## Links & Channels  
 
 ### WhatsApp Channel
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
