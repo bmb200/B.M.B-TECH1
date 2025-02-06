@@ -45,9 +45,6 @@ Stay updated with our WhatsApp channel:
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓆏+𝑆𝐴𝐹𝐸+𝑇𝑂+𝐻𝐸𝑅𝑂𝐾𝑈+𓆏)](https://git.io/typing-svg)
 </p>---
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</p>
 - <a href="https://dashboard.heroku.com/new?template=https://github.com/bmb-1/B.M.B_TZ.git"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=dragon" width="220" height="38.45"/></a></p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
