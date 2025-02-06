@@ -52,7 +52,7 @@ Stay updated with our WhatsApp channel:
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge)](https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 Join our WhatsApp group to connect with the community:  
-[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-teal?style=for-the-badge)](https://chat.whatsapp.com/GNP3fyNgBeOElKqQEsgcvo)
+[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-teal?style=for-the-badge)](https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### YouTube Channel
