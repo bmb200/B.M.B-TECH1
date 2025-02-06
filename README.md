@@ -86,8 +86,12 @@ Join our WhatsApp group to connect with the community:
 
 ### YouTube Channel
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-Subscribe to our YouTube channel for the latest updates:  
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge)](https://youtube.com/@user-em9qv5qt3r?si=a2Z6TvtHS6vnrUYs)
+
+👇 Subscribe to My Channel on YouTube 🤝 
+[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HANSTZ-TECH)  
+
+<br>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 👇 Contact Me on WhatsApp  🤝
