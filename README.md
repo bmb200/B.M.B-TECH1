@@ -36,9 +36,6 @@ Stay updated with our WhatsApp channel:
 ---
 ### 3. Scan QR Code  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-Use the QR Code below for seamless authentication: 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
 
 [![Scan QR Code](https://img.shields.io/badge/QR%20Code-Scan-orange?style=for-the-badge)](#)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
