@@ -41,6 +41,7 @@ Stay updated with our WhatsApp channel:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 - <a align="center"><a href="https://signup.heroku.com">
 CREATE ACCOUNT HEROKU 👇
+
  <img 
 src="https://img.shields.io/badge/Create%20Account%20Now-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
