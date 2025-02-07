@@ -1,5 +1,5 @@
 
-🙏 MR-B.M.B 𝕄𝔻 𝕄𝔸𝔻𝔼 𝔹𝕐 B.M.B-TECH
+😎😎MR-B.M.B 𝕄𝔻 𝕄𝔸𝔻𝔼 𝔹𝕐 B.M.B-TECH
 # B.M.B-XMD
 </p>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -24,7 +24,7 @@ Stay updated with our WhatsApp channel:
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐶𝐿𝐼𝐶𝐾+𝑇𝑂+𝐹𝑂𝑅𝐾+𝑇𝐻𝐸+𝑅𝐸𝑃𝑂)](https://git.io/typing-svg)
 </p>
-- <a href="https://github.com/boniphace478/BONIPHACE-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/bmb200/B.M.B_TZ/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 ---
 ### 2. Generate Session ID  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
