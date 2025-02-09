@@ -54,20 +54,20 @@
 4.👇 Deploy to Heroku If your have account
 [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/bmb-1/B.M.B_TZ.git)  
 
-<a href="https://wa.me/message/HVPSEJDVDNAEG1">
+<a href="https://wa.me/message/47OXC25I75WAE1">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
 
 **𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
+  <a href="https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    ###
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/message/HVPSEJDVDNAEG1" target="_blank">
+<a href="https://wa.me/message/47OXC25I75WAE1" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
