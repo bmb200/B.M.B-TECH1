@@ -31,7 +31,7 @@
 <br>
 
 2. (A)👇 Get Session ID Here for normal bot
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)]() 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://bmb-tech-scan-e30bcb8bd096.herokuapp.com) 
 
  
  2. (B) 😎 get session id here for bottom bot
@@ -59,7 +59,7 @@
 
 
 
-
+𝗖𝗵𝗮𝗻𝗻𝗲𝗹👇
 
 <p align="centre">
   <a href="https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M">
