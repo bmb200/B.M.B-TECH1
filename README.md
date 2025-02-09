@@ -68,7 +68,7 @@
 CONTACT DEVELOPER ON WHATSAPP 
 
 <a href="https://wa.me/message/47OXC25I75WAE1" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/b.m.b tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
