@@ -1,72 +1,79 @@
+🙋B.M.B-TECH🙋
 
-😎😎MR-B.M.B 𝕄𝔻 𝕄𝔸𝔻𝔼 𝔹𝕐 B.M.B-TECH
-# B.M.B-XMD
-</p>
- <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-**B.M.B-XMD** is a powerful and versatile bot designed to streamline interactions and processes on various platforms.
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓅓+𝐵.M.B+𝐼𝑆+𝑀𝑌+𝑂𝑊𝑁𝐸𝑅+𓅓)](https://git.io/typing-svg)
-
-Stay updated with our WhatsApp channel:  
-[![WhatsApp Channel](https://files.catbox.moe/lyd2y0.jpg)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+B.M.B TECH;RELEASED+25.9.2024" alt="Typing SVG" /></a>
 
 
 
 </p>
- <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+B.M.B+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+B.M.B+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+B.M.B.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒B.M.B࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  
----
----
-## Quick star🌟🌟
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+ <a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30">
+ <img alt="B.M.B " height="300" src="https://files.catbox.moe/lyd2y0.jpg".
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝐶𝐿𝐼𝐶𝐾+𝑇𝑂+𝐹𝑂𝑅𝐾+𝑇𝐻𝐸+𝑅𝐸𝑃𝑂)](https://git.io/typing-svg)
+</h1> 
+<p align="center">🙋<b>𝕃
+blB.M.B MD</b>, 🙋 </p>
+
 </p>
-- <a href="https://github.com/bmb200/B.M.B_TZ/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
----
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+  <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𝑇𝐻𝐼𝑆+𝐼𝑆+𝑆𝐸𝑆𝑆𝐼𝑂𝑁+𝑆𝐼𝑇𝐸+🌟)](https://git.io/typing-svg)
 
-[![Get Session ID](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://bmb-tech-scan-e30bcb8bd096.herokuapp.com)
 
----
-### 3. Scan QR Code  
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Scan QR Code](https://img.shields.io/badge/QR%20Code-Scan-orange?style=for-the-badge)](#)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-- <a align="center"><a href="https://signup.heroku.com">
-CREATE ACCOUNT HEROKU 👇
 
- <img 
-src="https://img.shields.io/badge/Create%20Account%20Now-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-- <a href="https://dashboard.heroku.com/new?template=https://github.com/bmb-1/B.M.B_TZ.git"><img title="Deploy On Heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=yellow&style=for-the-badge&logo=dragon" width="220" height="38.45"/></a></p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-Stay updated with our WhatsApp channel:  
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-green?style=for-the-badge)](https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-Join our WhatsApp group to connect with the community:  
-[![WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp-Group-teal?style=for-the-badge)](https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-👇 Subscribe to My Channel on YouTube 🤝 
-[![Subscribe to My Channel on YouTube](https://img.shields.io/static/v1?label=Subscribe%20to%20My%20Channel&message=YouTube&color=FF0000&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HANSTZ-TECH)  
+
+
+
+
+         **HOW TO DEPLOY**
+1.👇 Star and Fork This Repo  
+[![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/bmb200/B.M.B_TZ/fork)  
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Contact Me on WhatsApp](https://img.shields.io/static/v1?label=Contact%20Me%20on%20WhatsApp&message=Message&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255711782669)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+2. (A)👇 Get Session ID Here for normal bot
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)]() 
 
----
-## License  
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+ 
+ 2. (B) 👁️ get session id here for bottom bot
+ 
+ 
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://bmb-tech-scan-e30bcb8bd096.herokuapp.com) 
 
----
+ 
+ 
+ 
+ 
+ 
+<br>
 
-### Contact  
-For further support or inquiries, feel free to reach out via our channels listed ab
+3.👇 Create Account on Heroku  
+[![Create Account on Heroku](https://img.shields.io/static/v1?label=Create%20Account&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)  
+
+<br>
+
+4.👇 Deploy to Heroku If your have account
+[![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/bmb-1/B.M.B_TZ.git)  
+
+
+<a href="https://wa.me/message/47OXC25I75WAE1">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+   ###
+
+CONTACT DEVELOPER ON WHATSAPP 
+https://wa.me/message/47OXC25I75WAE1
+<a href="https://wa.me/message/47OXC25I75WAE1" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/b.m.b tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+  
+ 
+<a href="https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ B.M.B_TECH  GROUP -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
