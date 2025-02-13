@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔥", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://github.com/bmb200/B.M.B_TZ.git';
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "💥", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = "https://api.github.com/repos/bmb200/B.M.B_TZ.git;
   const img = 'https://files.catbox.moe/u3bkjv.jpg';
 
   try {
@@ -21,8 +21,8 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🔥", nomFichier: __
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `*hellow whatsaap user
-this is* *leonard_md.*\n support our channel *by*,  https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
+      const gitdata = `*hellow whatsaap 
+this is* *leonard_md.*\n support our channel *by*,  https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14
 
 _________● *ʟᴇᴏɴᴀʀᴅ* ●____________
 |💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* ${data.html_url}
@@ -30,11 +30,11 @@ _________● *ʟᴇᴏɴᴀʀᴅ* ●____________
 |🍽 *ғᴏʀᴋs:* ${repoInfo.forks}
 |⌚️ *ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ:* ${releaseDate}
 |🕐 *ᴜᴘᴅᴀᴛᴇ ᴏɴ:* ${repoInfo.lastUpdate}
-|👨‍💻 *ᴏᴡɴᴇʀ:* *🄱🄼🄱-🅃🄴🄲🄷*
-|💞 *ᴛʜᴇᴍᴇ:* *🄱🄼🄱-🅃🄴🄲🄷*
-|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!*🙋*
+|👨‍💻 *ᴏᴡɴᴇʀ:* *ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ*
+|💞 *ᴛʜᴇᴍᴇ:* *ʟᴇᴏɴᴀʀᴅ*
+|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*
 __________________________________
-            *ᴍᴀᴅᴇ ᴡɪᴛʜ 🅑🅜🅑-🅣🅔🅒🅗*`;
+            *ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
@@ -44,4 +44,4 @@ __________________________________
     console.log("Error fetching data:", error);
   }
 });
-                  
+      
