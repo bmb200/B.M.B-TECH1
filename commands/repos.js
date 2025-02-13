@@ -2,9 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo1", catégorie:"Général", reaction: "✌️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://github.com/bmb-1/B.M.B_TZ.git';
-  const img = 'https://files.catbox.moe/rpea5k.jpg';
+zokou({ nomCom: "repo1", catégorie:"Général", reaction: "💥", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = 'https://api.github.com/repos/Zedkazzozoranda091/LEONARD-MD';
+  const img = 'https://files.catbox.moe/idioc5.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -21,19 +21,20 @@ zokou({ nomCom: "repo1", catégorie:"Général", reaction: "✌️", nomFichier:
       const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
-      const gitdata = `HELLO WHATSAPP USER
-THIS IS B.M.B-MD .\n SUPPORT OUR CHANNEL BY VIEW AND FOLLOW, https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
-╭─────────────────────➳
-│╭────────────────────➳
-││ 🗼 *REPOSITORY:* ${data.html_url}
-││ 🌟 *STARS:* ${repoInfo.stars}
-││ 🧧 *FORKS:* ${repoInfo.forks}
-││ 📅 *RELEASE DATE:* ${releaseDate}
-││🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-││ 👨‍💻 *OWNER:* *king lukas*
-││ 💞 *THEME:* *b.m.b*
-││ 🥰 *B.M.B-MD*
-│╰────────────────────➳`;
+      const gitdata = `*hellow whatsaap user
+this is* *leonard_md.*\n support our channel *by*,  https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14
+
+_________● *ʟᴇᴏɴᴀʀᴅ* ●____________
+|💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* ${data.html_url}
+|🌟 *sᴛᴀʀs:* ${repoInfo.stars}
+|🍽 *ғᴏʀᴋs:* ${repoInfo.forks}
+|⌚️ *ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ:* ${releaseDate}
+|🕐 *ᴜᴘᴅᴀᴛᴇ ᴏɴ:* ${repoInfo.lastUpdate}
+|👨‍💻 *ᴏᴡɴᴇʀ:* *ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ*
+|💞 *ᴛʜᴇᴍᴇ:* *ʟᴇᴏɴᴀʀᴅ*
+|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*
+__________________________________
+            *ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
