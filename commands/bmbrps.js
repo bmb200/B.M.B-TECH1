@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo1", catégorie:"Général", reaction: "💥", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "💯", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://github.com/bmb200/B.M.B_TZ.git';
   const img = 'https://files.catbox.moe/u3bkjv.jpg';
 
@@ -30,11 +30,11 @@ _________● *ʟᴇᴏɴᴀʀᴅ* ●____________
 |🍽 *ғᴏʀᴋs:* ${repoInfo.forks}
 |⌚️ *ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ:* ${releaseDate}
 |🕐 *ᴜᴘᴅᴀᴛᴇ ᴏɴ:* ${repoInfo.lastUpdate}
-|👨‍💻 *ᴏᴡɴᴇʀ:* *ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ*
-|💞 *ᴛʜᴇᴍᴇ:* *ʟᴇᴏɴᴀʀᴅ*
-|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*
+|👨‍💻 *ᴏᴡɴᴇʀ:* *🄱🄼🄱-🅃🄴🄲🄷*
+|💞 *ᴛʜᴇᴍᴇ:* *🄱🄼🄱-🅃🄴🄲🄷*
+|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!*🙋*
 __________________________________
-            *ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ*`;
+            *ᴍᴀᴅᴇ ᴡɪᴛʜ 🅑🅜🅑-🅣🅔🅒🅗*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {
@@ -44,3 +44,4 @@ __________________________________
     console.log("Error fetching data:", error);
   }
 });
+                  
