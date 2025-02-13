@@ -7,7 +7,7 @@
 </p>
  
  <a href="https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30">
- <img alt="B.M.B " height="300" src="https://files.catbox.moe/lyd2y0.jpg".
+ <img alt="B.M.B " height="300" src="https://files.catbox.moe/nwjv1y.mp4".
 
 </h1> 
 <p align="center">🙋<b>B.M.B MD</b>, 🙋 </p>
