@@ -59,21 +59,26 @@
 
 
 
-𝗖𝗵𝗮𝗻𝗻𝗲𝗹👇
-
+**OWNER**
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M">
+  <a href="https://wa.me/message/HVPSEJDVDNAEG1">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
    ###
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/message/47OXC25I75WAE1" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/b.m.b tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/message/HVPSEJDVDNAEG1" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
  
-<a href="[https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G](https://whatsapp.com/channel/0029VaoadqE84OmC8xlVsQ1M)" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ B.M.B_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ BONIPHACE_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
