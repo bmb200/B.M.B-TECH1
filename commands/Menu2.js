@@ -61,7 +61,7 @@ ${coms[cat].map(cmd => `┃│❍  ${cmd}`).join("\n")}
                 externalAdReply: {
                     body: "©ʙᴡʙ ᴛᴇᴄʜ",
                     thumbnailUrl: "https://files.catbox.moe/ffk61d.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z",
+                    sourceUrl: "",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
@@ -69,7 +69,7 @@ ${coms[cat].map(cmd => `┃│❍  ${cmd}`).join("\n")}
         });
 
         // Send Audio (Song) Below
-        const audioUrl = "https://files.catbox.moe/j7otcl.mp3"; // URL of the audio file
+        const audioUrl = ""; // URL of the audio file
         await zk.sendMessage(dest, {
             audio: { url: audioUrl },
             mimetype: 'audio/mpeg',
