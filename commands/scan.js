@@ -36,8 +36,9 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
  *Tap on the link to get session*
-  
- https://bmb-tech-scan-e30bcb8bd096.herokuapp.com
+
+ 
+  https://b-m-b-session-id.onrender.com
  
  
  *STEPS TO GET SESSION*
