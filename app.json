@@ -19,6 +19,12 @@
       "value":"no",
       "required":false
     },
+	  "AUTO_BIO":
+    {
+      "description":"Enter yes for your bot to auto bio",
+      "value":"yes",
+      "required":false
+    },
 	    "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto react status",
