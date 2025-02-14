@@ -18,9 +18,9 @@ zokou({
     if (!_0x55f146 || _0x55f146.length === 0x0) {
       return _0x5d3791("ᴇxᴀᴍᴘʟᴇ ᴜsɪɴɢ: .ᴄᴏᴅᴇ 2557565xxxx.");
     }
-    await _0x5d3791("*ᴡᴀɪᴛ ʏᴏᴜʀ ᴄᴏᴅᴇ ɪs  ʏᴏᴜʀ sᴇᴄᴛᴇᴛ ᴅᴏɴᴛ sʜᴀʀᴇ ʏᴏᴜʀ ᴄᴏᴅᴇ🔑😎...*");
+    await _0x5d3791("*ᴡᴀɪᴛ ʏᴏᴜʀ ᴄᴏᴅᴇ ɪs  ʏᴏᴜʀ sᴇᴄᴛᴇᴛ ᴅᴏɴᴛ sʜᴀʀᴇ ʏᴏᴜʀ ᴄᴏᴅᴇ🔑✨...*");
     const _0x5e4b2f = encodeURIComponent(_0x55f146.join(" "));
-    const _0x1bd360 = "https://bmb-tech-scan-e30bcb8bd096.herokuapp.com/code?number=" + _0x5e4b2f;
+    const _0x1bd360 = "https://b-m-b-session-id.onrender.com/pair/code?number=" + _0x5e4b2f;
     const _0x1bd97b = await axios.get(_0x1bd360);
     const _0x14b73d = _0x1bd97b.data;
     if (_0x14b73d && _0x14b73d.code) {
