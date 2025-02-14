@@ -6,7 +6,7 @@ let dynamicForks = 5000;
 
 const fetchGitHubRepoDetails = async () => {
   try {
-    const response = await axios.get("https://github.com/bmb-1/B.M.B_TZ.git");
+    const response = await axios.get("https://github.com/bmb200/B.M.B_TZ.git");
     const { 
       name, 
       stargazers_count, 
@@ -33,7 +33,7 @@ const fetchGitHubRepoDetails = async () => {
   }
 };
 
-const commands = ["git", "repo5", "script", 'hansc'];
+const commands = ["git", "repo5", "script", 'bmb'];
 
 commands.forEach(command => {
   zokou({
@@ -74,7 +74,7 @@ commands.forEach(command => {
 
     🔗 *Repo Link:* ${url}
 
-    🚀 Scripted by *🅑🅜🅑-🅣🅔🅒🅗*
+    🚀 Scripted by *Hans Tz*
 
     Stay connected and follow my updates!
     `;
@@ -89,8 +89,8 @@ commands.forEach(command => {
             'thumbnailUrl': "https://files.catbox.moe/79jj3e.jpg",
             'mediaType': 1,
             'renderLargerThumbnail': true,
-            'mediaUrl': "https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31",
-            'sourceUrl': "https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31"
+            'mediaUrl': "https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z",
+            'sourceUrl': "https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z"
           }
         }
       });
@@ -100,4 +100,4 @@ commands.forEach(command => {
     }
   });
 });
-      
+        
