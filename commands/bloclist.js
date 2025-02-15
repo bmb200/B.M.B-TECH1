@@ -7,7 +7,7 @@ const {
 zokou({
   nomCom: "asthetic",
   reaction: '✌️',
-  categorie: "B.M.B PICTURES"
+  categorie: "B.M.B-TECH PICTURES"
 }, async (message, sendMessage, { repondre, arg, ms }) => {
   try {
     const response = await fetch("https://api.maher-zubair.tech/wallpaper/asthetic");
@@ -18,7 +18,7 @@ zokou({
       image: {
         url: imageUrl
       },
-      caption: "*POWERED BY B.M.B BOT*"
+      caption: "*POWERED BY B.M.B-TECH BOT*"
     };
 
     await sendMessage(message, messageData, { quoted: ms });
