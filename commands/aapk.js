@@ -36,7 +36,7 @@ zokou({
       },
       "fileName": _0x23e2f7.BK9.name + ".apk",
       "mimetype": "application/vnd.android.package-archive",
-      "caption": "B.M.B-MD"
+      "caption": "B.M.B-TECH"
     }, {
       "quoted": _0x37fac7
     });
