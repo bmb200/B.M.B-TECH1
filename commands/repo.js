@@ -37,10 +37,10 @@ const date = moment().format('DD/MM/YYYY');
       *B.M.B MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
->https://github.com/bmb-1/B.M.B_TZ.git
+>https://github.com/bmb200/B.M.B-TECH1.git
 
 *WHATSAPP GROUP*
-> https://chat.whatsapp.com/GSwWooIVuAa3VZg095sTux
+> https://chat.whatsapp.com/Jbp0o4EQtv080SYoyE2Mqi
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
