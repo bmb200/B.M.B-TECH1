@@ -28,18 +28,18 @@
 1.👇 Star and Fork This Repo  
 [![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/bmb200/B.M.B_TZ/fork)  
 <br>
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🅕🅞🅡🅚+🅐🅝🅓+🅢🅣🅐🅡+🅡🅔🅟🅞)](https://git.io/typing-svg)
 
 2. (A)👇 Get Session ID Here for normal bot
 [![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://b-m-b-session-id-ei1v.onrender.com) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+🅗🅔🅡🅔1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🅢🅔🅢🅢🅘🅞🅝+🅘🅓+🅢🅘🅣🅔+🅘🅢+🅗🅔🅡🅔1)](https://git.io/typing-svg)
  
  
  
 [![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://b-m-b-session-id-ei1v.onrender.com)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+🅗🅔🅡🅔2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🅢🅔🅢🅢🅘🅞🅝+🅘🅓+🅢🅘🅣🅔+🅘🅢+🅗🅔🅡🅔2)](https://git.io/typing-svg)
  <br>
 
 3.👇 Create Account on Heroku  
@@ -50,7 +50,7 @@
 
 4.👇 Deploy to Heroku If your have account
 [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://bmbtech.vercel.app/bmb.tech)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🅓🅔🅟🅛🅞🅨+🅞🅝+🅗🅔🅡🅞🅚🅤)](https://git.io/typing-svg)
 <a href="https://wa.me/message/47OXC25I75WAE1">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
