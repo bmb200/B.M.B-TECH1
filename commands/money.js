@@ -35,7 +35,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
 1.\n> Recipient Name:** SAILAS ANTIM MAMSERI 
-2.\n> Mobile Number:** 0741752020 (Vodacom) 
+2.\n> Mobile Number:** 0711782669 (Mx by yas)
 3.\n> Hello 👋\n${nomAuteurMessage}
 5.\n> Payment Method:** Online Payment  
 6.\n> Country:** Tanzania 🇹🇿
