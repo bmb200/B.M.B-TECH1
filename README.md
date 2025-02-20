@@ -79,3 +79,5 @@ CONTACT DEVELOPER ON WHATSAPP
  
 <a href="https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ 🄱🄼🄱-🅃🄴🄲🄷 CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=CONTACT+ME👆)](https://git.io/typing-svg)
