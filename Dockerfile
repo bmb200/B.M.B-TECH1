@@ -10,7 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
   
 RUN  git clone https://github.com/bmbttz/B.M.B_TECH  /root/b.m.b_BOt
-WORKDIR /root/b.m.b_Bot/
+WORKDIR /root/bmbtz/
 
 
 
