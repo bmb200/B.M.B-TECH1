@@ -35,7 +35,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🅂🄴🅂🅂🄸🄾🄽+🄸🄳+🅂🄸🅃🄴+🄸🅂+🄷🄴🅁🄴1👆)](https://git.io/typing-svg)
  
-[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://b-m-b-session-id-ei1v.onrender.com)
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://b-m-b-session-id-afj6.onrender.com/pair)
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=🅂🄴🅂🅂🄸🄾🄽+🄸🄳+🅂🄸🅃🄴🄴+🄸🅂+🄷🄴🅁🄴2👆)](https://git.io/typing-svg)
  <br>
